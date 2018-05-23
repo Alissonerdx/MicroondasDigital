@@ -1,0 +1,10 @@
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Presentation\bin\Debug\MicroondasDigital.Presentation.exe.config
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Presentation\bin\Debug\MicroondasDigital.Presentation.exe
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Presentation\bin\Debug\MicroondasDigital.Presentation.pdb
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Presentation\obj\Debug\MicroondasDigital.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Presentation\obj\Debug\MicroondasDigital.Presentation.Microondas.resources
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Presentation\obj\Debug\MicroondasDigital.Presentation.Properties.Resources.resources
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Presentation\obj\Debug\MicroondasDigital.Presentation.csproj.GenerateResource.Cache
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Presentation\obj\Debug\MicroondasDigital.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Presentation\obj\Debug\MicroondasDigital.Presentation.exe
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Presentation\obj\Debug\MicroondasDigital.Presentation.pdb

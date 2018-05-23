@@ -1,0 +1,6 @@
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Domain\bin\Debug\MicroondasDigital.Domain.dll
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Domain\bin\Debug\MicroondasDigital.Domain.pdb
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Domain\obj\Debug\MicroondasDigital.Domain.csprojResolveAssemblyReference.cache
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Domain\obj\Debug\MicroondasDigital.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Domain\obj\Debug\MicroondasDigital.Domain.dll
+C:\Users\alisson.anjos\Documents\Projetos\MicroondasDigital\MicroondasDigital.Domain\obj\Debug\MicroondasDigital.Domain.pdb

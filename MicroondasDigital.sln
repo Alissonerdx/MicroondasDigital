@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{B8B01C8D-F322-4271-9DCB-BBE8C01A9AC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Domain", "1 - Domain", "{E8E9786F-BB01-4E70-B4A7-A37D3876FCC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Test", "2 - Test", "{48402B1C-F12B-4F16-83E0-50E34FBA3390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroondasDigital.Domain", "MicroondasDigital.Domain\MicroondasDigital.Domain.csproj", "{EE9485BC-8F76-4072-901E-BFC300A1485D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroondasDigital.Presentation", "MicroondasDigital.Presentation\MicroondasDigital.Presentation.csproj", "{4D83809A-8809-4566-BCA5-D5DC223881E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE9485BC-8F76-4072-901E-BFC300A1485D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9485BC-8F76-4072-901E-BFC300A1485D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9485BC-8F76-4072-901E-BFC300A1485D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9485BC-8F76-4072-901E-BFC300A1485D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D83809A-8809-4566-BCA5-D5DC223881E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D83809A-8809-4566-BCA5-D5DC223881E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D83809A-8809-4566-BCA5-D5DC223881E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D83809A-8809-4566-BCA5-D5DC223881E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EE9485BC-8F76-4072-901E-BFC300A1485D} = {E8E9786F-BB01-4E70-B4A7-A37D3876FCC7}
+		{4D83809A-8809-4566-BCA5-D5DC223881E7} = {B8B01C8D-F322-4271-9DCB-BBE8C01A9AC4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B319E9D0-E2A1-4E03-A8CE-54ADE13A28E5}
+	EndGlobalSection
+EndGlobal
